@@ -1,4 +1,4 @@
-# ProyekBD
+# Database Final Project
 
 Creating application forms using JavaFX and combining with database using PostgreSQL.
 
